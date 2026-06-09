@@ -27,10 +27,10 @@
 
 ### 📊 System Status & Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xmax17&show_icons=true&theme=dark&hide_border=true&bg_color=0f141a&title_color=b31922&icon_color=b31922&text_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xmax17&show_icons=true&theme=dark&bg_color=0f141a&title_color=b31922&icon_color=b31922&text_color=ffffff&border_radius=5" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xmax17&theme=dark&hide_border=true&background=0f141a&sideNums=b31922&sideTitle=ffffff&ring=b31922&fire=b31922" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmax17&layout=compact&theme=dark&hide_border=true&bg_color=0f141a&title_color=b31922&text_color=ffffff" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmax17&layout=compact&theme=dark&bg_color=0f141a&title_color=b31922&text_color=ffffff&border_radius=5" height="130" />
 </p>
