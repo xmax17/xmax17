@@ -32,5 +32,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xmax17&layout=compact&theme=dark&bg_color=0f141a&title_color=b31922&text_color=ffffff&border_radius=5" height="130" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xmax17&theme=dark&bg_color=0f141a&title_color=b31922&text_color=ffffff&border_radius=5" height="165" />
 </p>
